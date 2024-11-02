@@ -1,6 +1,6 @@
-# Patterns - Java Design Patterns
+# Design-Patterns - Java Design Patterns
 
-Welcome to the **Patterns** project! This repository is a comprehensive collection of design pattern implementations in Java, crafted with an educational purpose. Design patterns are proven solutions to common problems in software development, providing a structured approach to building scalable, maintainable, and flexible applications. By following best practices and theoretical modeling, design patterns help developers tackle recurring challenges with reliable solutions.
+Welcome to the **Design-Patterns** project! This repository is a comprehensive collection of design pattern implementations in Java, crafted with an educational purpose. Design patterns are proven solutions to common problems in software development, providing a structured approach to building scalable, maintainable, and flexible applications. By following best practices and theoretical modeling, design patterns help developers tackle recurring challenges with reliable solutions.
 
 As a software engineer, I’ve developed these examples to offer a hands-on, didactic approach to understanding and applying design patterns in real-world scenarios. This project serves as a practical guide for anyone looking to deepen their understanding of Java design patterns, encapsulating both theoretical concepts and concrete implementations.
 
